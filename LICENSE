@@ -1,3 +1,9 @@
+This project is dual-licensed under MPL-2.0 and AGPL-3.0.
+Use MPL-2.0 for local or private deployments.
+Use AGPL-3.0 if deploying as a public-facing service.
+If deployed as a public-facing service, or used to inject content via JavaScript,
+users must retain source access and attribution. Misuse for illegal activities is strictly prohibited.
+
 Mozilla Public License Version 2.0
 ==================================
 
